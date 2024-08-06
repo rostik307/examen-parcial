@@ -1,0 +1,13 @@
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ExamenApplication.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/controller/EntradaController.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/controller/ProyeccionController.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/controller/SalaController.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/model/Entrada.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/model/Proyeccion.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/model/Sala.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/repository/EntradaRepository.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/repository/ProyeccionRepository.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/repository/SalaRepository.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/service/EntradaService.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/service/ProyeccionService.java
+/home/curso07/Desktop/vscode/examen/src/main/java/parcial/examen/ejercicio5/service/SalaService.java
