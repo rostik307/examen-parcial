@@ -16,5 +16,37 @@ public class Sala {
     @OneToMany(mappedBy = "sala")
     private List<Proyeccion> proyecciones;
 
-    // Getters y Setters
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    public int getCapacidad() {
+        return capacidad;
+    }
+
+    public void setCapacidad(int capacidad) {
+        this.capacidad = capacidad;
+    }
+
+    public List<Proyeccion> getProyecciones() {
+        return proyecciones;
+    }
+
+    public void setProyecciones(List<Proyeccion> proyecciones) {
+        this.proyecciones = proyecciones;
+    }
+
+    
 }
